@@ -28,9 +28,9 @@ as the above params, the report file is generated on /olympic/output/report.csv
 ##What can you do for the csv file?
 I use this file for wechat mini program page rendering.
 wechat scan to see more:
-![image](official.png)
+![image](https://vekaco.fun/10.jpg)
 
 ##csv报表能做什么？
 我用它来生成微信小程序的页面
 微信扫一扫：
-![image](official.png)
+![image](https://vekaco.fun/10.jpg)
